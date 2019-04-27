@@ -117,7 +117,7 @@ Conference Papers
 
 .. 2003
 
-* Tao Bai, Christopher K. Chung, Konstantin Läufer, Daisy Rockwell, and |gkt||,
+* Tao Bai, Christopher K. Chung, Konstantin Läufer, Daisy Rockwell, and |gkt|,
   *A Multi-Platform Application Suite for Enhancing South Asian Language Pedagogy*,
   In Proc. 2003 Midwest Software Engineering Conference (MSEC),
   2003,
