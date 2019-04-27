@@ -85,7 +85,7 @@ html_theme = 'alabaster'
 # html_theme_options = {}
 
 html_theme_options = {
-    'logo': 'logo.png',
+    'logo': 'peace.png',
     'github_user': 'gkthiruvathukal',
     'github_repo': 'thiruvathukal-onepage'
 }
