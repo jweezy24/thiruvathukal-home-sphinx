@@ -3,19 +3,24 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to George K. Thiruvathukal's documentation!
-===================================================
+George K. Thiruvathukal
+========================
+
+Welcome to the home page of George K. Thiruvathukal. After giving Jekyll a try, I've decided that I prefer Sphinx, which I used
+for most of my research/software web sites anyway. This site is under construction but should be ready by May 1st.
+
+See the :doc:`about` page if you want to know more about me.
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
    about.rst
-   community.rst
    intro.rst
-   media.rst
-   publications.rst
    research.rst
+   publications.rst
+   community.rst
+   media.rst
 
 
 Indices and tables

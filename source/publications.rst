@@ -5,6 +5,8 @@ Virtually all of my publications can be found in my university’s Digital
 Commons site at
 `works.bepress.com/gkthiruvathukal <https://works.bepress.com/gkthiruvathukal/>`_.
 
+Please use the above instead of what you see below as I have not yet ported everything to Sphinx.
+
 .. |gkt| replace:: **George K. Thiruvathukal**
 
 Books
