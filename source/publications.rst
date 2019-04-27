@@ -12,6 +12,9 @@ Please use the above instead of what you see below as I have not yet ported ever
 Books
 ~~~~~
 
+.. index::
+   double: books; software engineering
+   double: books; research software
 
 * Jeffrey C. Carver, Neil P. Chue Hong, and |gkt|,
   Software Engineering for Science,
@@ -20,16 +23,33 @@ Books
   `CRC Press Book Site <https://www.crcpress.com/Software-Engineering-for-Science/Carver-Hong-Thiruvathukal/p/book/9781498743853>`_,
   https://ecommons.luc.edu/cs_facpubs/128/
 
+.. index::
+   double: books; digital humanities
+   double: books; gaming
+   double: books; history
+
 * Steven E. Jones and |gkt|,
   Codename Revolution: The Nintendo Wii Platform,
   MIT Press, Platform Studies Series,
   February 2012,
   `MIT Press Book Site <https://mitpress.mit.edu/books/codename-revolution>`_
 
+.. index::
+   double: books; research
+   double: books; professional reference
+   double: books; Java
+   double: books; multithreading
+
 * Thomas W. Christopher and |gkt|, *High-Performance Java Platform Computing*,
   Prentice Hall PTR and Sun Microsystems Java Series,
   2000,
   https://ecommons.luc.edu/cs_facpubs/3/
+
+.. index::
+   double: books; web programming
+   double: books; professional reference
+   double: books; Python
+   double: books; Linux
 
 * |gkt|, Thomas W. Christopher, and John P. Shafaee,
   Web Programming in Python: Techniques for Integrating Linux, Apache Web Server, and MySQL,
@@ -40,8 +60,19 @@ Books
 e-Books
 ~~~~~~~~
 
+.. index::
+   double: ebooks; teaching
+   double: ebooks; CS1
+   double: ebooks; introduction to computer science
+   single: C#
+
 * Andrew N. Harrington and |gkt|, `Introduction to Computer Science in C# <https://introcs.cs.luc.edu>`_,
   https://ecommons.luc.edu/cs_facpubs/74
+
+.. index::
+   double: books; digital humanities
+   double: books; computer history
+
 
 * |gkt|, *A Mini-History of Computing*, American Institute of Physics, College Park, MD, 2011,
   https://ecommons.luc.edu/cs_facpubs/103/

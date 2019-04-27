@@ -6,26 +6,25 @@
 George K. Thiruvathukal
 ========================
 
-Welcome to the home page of George K. Thiruvathukal. After giving Jekyll a try, I've decided that I prefer Sphinx, which I used
-for most of my research/software web sites anyway. This site is under construction but should be ready by May 1st.
+`Professor of Computer Science, Loyola University Chicago <https://luc.edu/gkthiruvathukal>`_
 
-See the :doc:`about` page if you want to know more about me.
+`Visiting Faculty, Argonne National Laboratory (ALCF) <https://www.alcf.anl.gov/staff-directory/george-k-thiruvathukal>`_
+
+Welcome to the home page of George K. Thiruvathukal.
+
+.. warning::
+
+   A bit under constrution again. After giving Jekyll a try, I've decided ot use Sphinx, which is more conducive to my
+   workflow/lifeflow in general. Pardon my dust as I work to get everything (especially publications) reorganized.
 
 .. toctree::
-   :maxdepth: 2
+   :hidden:
    :caption: Contents:
 
    about.rst
-   intro.rst
    research.rst
    publications.rst
    community.rst
    media.rst
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+See :ref:`genindex` for a more topical way of navigating the site.
