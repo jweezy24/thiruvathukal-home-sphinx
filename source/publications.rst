@@ -67,6 +67,13 @@ Conference Papers
 .. 2012
 .. 2011
 .. 2010
+
+* Jones, Steven E., Peter Shillingsburg, and George K. Thiruvathukal,
+  *E-Carrel: An Environment for Collaborative Textual Scholarship*,
+  Journal of the Chicago Colloquium on Digital Humanities and Computer Science, 1:2,
+  June 16, 2010,
+  https://ecommons.luc.edu/cs_facpubs/1/
+
 .. 2009
 .. 2008
 
