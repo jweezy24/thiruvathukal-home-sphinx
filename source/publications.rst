@@ -12,8 +12,30 @@ Please use the above instead of what you see below as I have not yet ported ever
 Books
 ~~~~~
 
-* Thomas W. Christopher and |gkt|, *High-Performance Java Platform Computing*, Prentice Hall PTR, 2000,
+
+* Jeffrey C. Carver, Neil P. Chue Hong, and |gkt|,
+  Software Engineering for Science,
+  Chapman and Hall/CRC,
+  October 20, 2016,
+  `CRC Press Book Site <https://www.crcpress.com/Software-Engineering-for-Science/Carver-Hong-Thiruvathukal/p/book/9781498743853>`_,
+  https://ecommons.luc.edu/cs_facpubs/128/
+
+* Steven E. Jones and |gkt|,
+  Codename Revolution: The Nintendo Wii Platform,
+  MIT Press, Platform Studies Series,
+  February 2012,
+  `MIT Press Book Site <https://mitpress.mit.edu/books/codename-revolution>`_
+
+* Thomas W. Christopher and |gkt|, *High-Performance Java Platform Computing*,
+  Prentice Hall PTR and Sun Microsystems Java Series,
+  2000,
   https://ecommons.luc.edu/cs_facpubs/3/
+
+* |gkt|, Thomas W. Christopher, and John P. Shafaee,
+  Web Programming in Python: Techniques for Integrating Linux, Apache Web Server, and MySQL,
+  Prentice Hall PTR,
+  2002
+
 
 e-Books
 ~~~~~~~~
