@@ -82,11 +82,42 @@ Conference Papers
 
 .. 2019
 
+* Sergei Alyamkin, Matthew Ardi, Alexander C. Berg, Achille Brighton, Bo Chen, Yiran Chen, Hsin-Pai Cheng, Zichen Fan,
+  Chen Feng, Bo Fu, Kent Gauen, Abhinav Goel, Alexander Goncharenko, Xuyang Guo, Soonhoi Ha, Andrew Howard, Xiao Hu,
+  Yuanjun Huang, Donghyun Kang, Jaeyoun Kim, Jong Gook Ko, Alexander Kondratyev, Junhyeok Lee, Seungjae Lee, Suwoong Lee,
+  Zichao Li, Zhiyu Liang, Juzheng Liu, Xin Liu, Yang Lu, Yung-Hsiang Lu, Deeptanshu Malik, Hong Hanh Nguyen, Eunbyung Park,
+  Denis Repin, Liang Shen, Tao Sheng, Fei Sun, David Svitov, |gkt|, Baiwu Zhang, Jingchi Zhang,
+  Xiaopeng Zhang, and Shaojie Zhuo, Low-Power Computer Vision: Status, Challenges, Opportunities,
+  IEEE Journal on Emerging and Selected Topics in Circuits and Systems,
+  https://arxiv.org/abs/1904.07714,
+  https://ecommons.luc.edu/cs_facpubs/217/
+
+* Lorena Barba, Juanjo Bazán, Jed Brown, Roman Guimera, Melissa Gymrek, Alex Hanna, Lindsey Heagy, Kathryn D. Huff,
+  Daniel Katz, Christopher Madan, Kevin Moerman, Kyle Niemeyer, Jack L. Poulson, Pjotr Prins, Karthik Ram, Ariel Rokem,
+  Arfon M. Smith, |gkt|, Kristen Thyng, Leonardo Uieda, Bruce Wilson, and Yo Yehudi,
+  *Giving software its due through community-driven review and publication*,
+  https://doi.org/10.31219/osf.io/f4vx6,
+  https://ecommons.luc.edu/cs_facpubs/216/
+
 * Nasir U. Eisty, |gkt|, and Jeffrey C. Carver,
   Use of Software Process in Research Software Development: A Survey,
   Proceedings of the Evaluation and Assessment on Software Engineering (EASE) 2019.
   2019,
   https://ecommons.luc.edu/cs_facpubs/214/
+
+* Ronald I. Greenberg, George K. Thiruvathukal, and Sara T. Greenberg,
+  *Integrating mathematics and educational robotics: Simple motion planning*,
+  Proceedings of the 10th International Conference on Robotics in Education,
+  Advances in Intelligent Systems and Computing. Springer-Verlag,
+  2019,
+  https://ecommons.luc.edu/cs_facpubs/213/
+
+* Zohar Kapach, Andrew Ulmer, Daniel Merrick, Arshad Alikhan, Yung-Hsiang Lu, Anup Mohan,
+  Ahmed S. Kaseb, and George K. Thiruvathukal,
+  *Cloud Resource Optimization for Processing Multiple Streams of Visual Data*,
+  IEEE Multimedia 2019 *(to appear)*
+  2019,
+  https://ecommons.luc.edu/cs_facpubs/208/
 
 .. 2018
 
@@ -156,11 +187,22 @@ Conference Papers
 
 .. 2006
 
+.. index::
+   double: conference paper; Hydra Filesystem
+   double: conference paper; Python
+   double: conference paper; I/O
+   double: conference paper; peer-to-peer
+
 * Benjamin Gonzalez and |gkt|,
-  *The Hydra Filesystem: A Distrbuted Storage Famework*, 
+  *The Hydra Filesystem: A Distrbuted Storage Famework*,
   In Linux Clusters International,
   2006,
   https://ecommons.luc.edu/cs_facpubs/7/
+
+.. index::
+   double: conference paper; MPI
+   double: conference paper; I/O
+   double: conference paper; atomicity
 
 * Peter M. Aarestad, Avery Ching, |gkt|, and Alok N. Choudhary
   *Scalable Approaches for Supporting MPI-IO Atomicity*,
@@ -170,11 +212,20 @@ Conference Papers
 
 .. 2003
 
+.. index::
+   South Asian language teaching
+   double: conference paper; educational software
+
 * Tao Bai, Christopher K. Chung, Konstantin Läufer, Daisy Rockwell, and |gkt|,
   *A Multi-Platform Application Suite for Enhancing South Asian Language Pedagogy*,
   In Proc. 2003 Midwest Software Engineering Conference (MSEC),
   2003,
   https://ecommons.luc.edu/cs_facpubs/2/
+
+.. index::
+   double: conference paper; MPI
+   double: conference paper; I/O
+   double: conference paper; atomicity
 
 * Wei-keng Liao, Alok Choudhary, Kenin Coloma, |gkt|, Lee Ward, Eric Russell, and Neil Pundit,
   *Scalable Implementations of MPI Atomicity for Concurrent Overlapping I/O*,
@@ -184,6 +235,11 @@ Conference Papers
 
 
 .. 1998
+
+.. index::
+   Java
+   double: conference paper; Java
+   double: conference paper; high-performance computing
 
 * |gkt|, Lovely Thomas, and Andy Korczynski,
   *Reflective Remote Method Invocation*,
@@ -198,6 +254,14 @@ Conference Papers
 Journal Articles
 ~~~~~~~~~~~~~~~~~
 
+.. index::
+   computer vision
+   double: magazine article; computer vision
+   double: magazine article; network cameras
 
-Other Articles
-~~~~~~~~~~~~~~
+* Yung-Hsiang Lu, George K. Thiruvathukal, Ahmed S. Kaseb; Kent Gauen, Damini Rijhwani, Ryan Dailey,
+  Deeptanshu Malik, Yutong Huang, Sarah Aghajanzadeh, and Minghao Guo,
+  *See the World through Network Cameras*,
+  IEEE Computer Magazine *(to appear)*,
+  2019,
+  https://ecommons.luc.edu/cs_facpubs/215/
