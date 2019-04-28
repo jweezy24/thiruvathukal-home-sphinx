@@ -80,7 +80,7 @@ e-Books
 Conference Papers
 ~~~~~~~~~~~~~~~~~~
 
-.. 2019
+*2019*
 
 * Sergei Alyamkin, Matthew Ardi, Alexander C. Berg, Achille Brighton, Bo Chen, Yiran Chen, Hsin-Pai Cheng, Zichen Fan,
   Chen Feng, Bo Fu, Kent Gauen, Abhinav Goel, Alexander Goncharenko, Xuyang Guo, Soonhoi Ha, Andrew Howard, Xiao Hu,
@@ -119,7 +119,14 @@ Conference Papers
   2019,
   https://ecommons.luc.edu/cs_facpubs/208/
 
-.. 2018
+* Caleb Tung, Matthew R. Kelleher, Ryan J. Schlueter, Binhan Xu, Yung-Hsiang Lu, |gkt|,
+  Yen-Kuang Chen, and Yang Lu,
+  *Large-Scale Object Detection of Images from Network Cameras in Variable Ambient Lighting Conditions*,
+  Proceedings of IEEE Multimedia Information Processing and Retrieval (MIPR),
+  2019,
+  https://ecommons.luc.edu/cs_facpubs/207/
+
+*2018*
 
 * Ahmed S. Kaseb, Bo Fu, Anup Mohan, Yung-Hsiang Lu, Amy Reibman, |gkt|,
   *Analyzing Real-Time Multimedia Content From Network Cameras: Using CPUs and GPUs in the Cloud*,
@@ -133,7 +140,15 @@ Conference Papers
   2018,
   https://ecommons.luc.edu/cs_facpubs/203/
 
-.. 2017
+* Nasir U. Eisty, |gkt|,  and Jeffrey C. Carver,
+  *A Survey of Software Metric Use in Research Software Development*,
+  IEEE 14th International Conference on e-Science (e-Science),
+  2018,
+  pp. 212-222,
+  doi: 10.1109/eScience.2018.00036,
+  https://ecommons.luc.edu/cs_facpubs/206/
+
+*2017*
 
 * Michael J. Lewis, |gkt|, Venkatram Vishwanath, Michael E. Papka, and Andrew Johnson,
   *A Distributed Graph Approach for Pre-Processing Linked Data Using Supercomputers*,
@@ -141,12 +156,7 @@ Conference Papers
   https://ecommons.luc.edu/cs_facpubs/139/
 
 
-.. 2016
-.. 2015
-.. 2014
-.. 2013
-.. 2012
-.. 2011
+.. 2016-2011
 
 * Joseph P. Kaylor, Konstantin Läufer, and |gkt|,
   *RestFS: Resources and Services are Filesystems, Too*,
@@ -250,8 +260,18 @@ Conference Papers
 .. 1995
 .. 1994
 
-
 Journal Articles
+~~~~~~~~~~~~~~~~~~~~
+
+* Gregory J. Matthews, Juliet K. Brophy, Max P. Luetkemeier, Hongie Gu, and |gkt|,
+  *A comparison of machine learning techniques for taxonomic classification of teeth from the Family Bovidae*,
+  Journal of Applied Statistics,
+  2018,
+  https://doi.org/10.1080/02664763.2018.1441381,
+  https://arxiv.org/abs/1802.05778
+
+
+Magazine Articles
 ~~~~~~~~~~~~~~~~~
 
 .. index::
@@ -266,7 +286,43 @@ Journal Articles
   2019,
   https://ecommons.luc.edu/cs_facpubs/215/
 
+* Francis Sullivan, Norman Chonacky, Isabel Beichl and |gkt|,
+  *Former CiSE EICs Reflect on the Magazines 20th Anniversary*,
+  Computing in Science and Engineering,
+  vol. 20, no. 1, pp. 3-7,
+  January/February 2018,
+  doi: 10.1109/MCSE.2018.011111118,
+  https://ecommons.luc.edu/cs_facpubs/191/
 
+
+
+
+
+Posters
+~~~~~~~~~~
+
+* Arfon Smith, Lorena A. Barba, Daniel S. Katz, Kyle Niemeyer, Tania Allard, Juanjo Bazan, Jed Brown,
+  Jason Clark, Roman Valls Guimera, Melissa Gymrek, Lindsey Heagy, Kathryn Huff, |gkt|,
+  Christopher Madan, Kevin Moerman, Lorena Pantano, Viviane Pons, Jack Poulson, Pjotr Prins,
+  Karthik Ram Elizabeth Ramirez, Ariel Rokem, Kristen Thyng, and Yo Yehudi,
+  *SIAM CSE 2019 Minisymposterium: The Journal of Open Source Software*,
+  https://figshare.com/articles/SIAM_CSE_2019_Minisymposterium_The_Journal_of_Open_Source_Software/7763171
+
+
+ArXiv/Technical Reports
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Konstantin Läufer, John O'Sullivan, and |gkt|,
+  *Auto-generated Spies Increase Test Maintainability*,
+  arXiv:1808.09630,
+  https://ecommons.luc.edu/cs_facpubs/198/
+
+* |gkt|, Ronald I. Greenberg, and David Garcia,
+  *Understanding Turning Radius and Driving in Convex Polygon Paths in Introductory Robotics*,
+  http://dx.doi.org/10.6084/m9.figshare.7027838,
+  https://ecommons.luc.edu/cs_facpubs/202/
+
+ 
 Datasets
 ~~~~~~~~~~~
 
@@ -288,3 +344,8 @@ Datasets
   2019,
   http://doi.org/10.5281/zenodo.2581550
 
+
+Other
+~~~~~~~
+
+TBD
