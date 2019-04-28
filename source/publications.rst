@@ -102,6 +102,9 @@ Conference Papers
 
 *2019*
 
+.. index::
+   low-power, computer vision
+
 * Sergei Alyamkin, Matthew Ardi, Alexander C. Berg, Achille Brighton, Bo Chen, Yiran Chen, Hsin-Pai Cheng, Zichen Fan,
   Chen Feng, Bo Fu, Kent Gauen, Abhinav Goel, Alexander Goncharenko, Xuyang Guo, Soonhoi Ha, Andrew Howard, Xiao Hu,
   Yuanjun Huang, Donghyun Kang, Jaeyoun Kim, Jong Gook Ko, Alexander Kondratyev, Junhyeok Lee, Seungjae Lee, Suwoong Lee,
@@ -112,6 +115,9 @@ Conference Papers
   https://arxiv.org/abs/1904.07714,
   https://ecommons.luc.edu/cs_facpubs/217/
 
+.. index::
+   software citation, JOSS
+
 * Lorena Barba, Juanjo Bazán, Jed Brown, Roman Guimera, Melissa Gymrek, Alex Hanna, Lindsey Heagy, Kathryn D. Huff,
   Daniel Katz, Christopher Madan, Kevin Moerman, Kyle Niemeyer, Jack L. Poulson, Pjotr Prins, Karthik Ram, Ariel Rokem,
   Arfon M. Smith, |gkt|, Kristen Thyng, Leonardo Uieda, Bruce Wilson, and Yo Yehudi,
@@ -119,11 +125,17 @@ Conference Papers
   https://doi.org/10.31219/osf.io/f4vx6,
   https://ecommons.luc.edu/cs_facpubs/216/
 
+.. index::
+   software process, empirical study, software engineering
+
 * Nasir U. Eisty, |gkt|, and Jeffrey C. Carver,
   Use of Software Process in Research Software Development: A Survey,
   Proceedings of the Evaluation and Assessment on Software Engineering (EASE) 2019.
   2019,
   https://ecommons.luc.edu/cs_facpubs/214/
+
+.. index::
+   robotics in education
 
 * Ronald I. Greenberg, |gkt|, and Sara T. Greenberg,
   *Integrating mathematics and educational robotics: Simple motion planning*,
@@ -132,6 +144,9 @@ Conference Papers
   2019,
   https://ecommons.luc.edu/cs_facpubs/213/
 
+.. index::
+   cloud, computer vision, streaming
+ 
 * Zohar Kapach, Andrew Ulmer, Daniel Merrick, Arshad Alikhan, Yung-Hsiang Lu, Anup Mohan,
   Ahmed S. Kaseb, and |gkt|,
   *Cloud Resource Optimization for Processing Multiple Streams of Visual Data*,
@@ -139,6 +154,9 @@ Conference Papers
   2019,
   https://ecommons.luc.edu/cs_facpubs/208/
 
+.. index::
+   object detection, network cameras, ambient lighting
+ 
 * Caleb Tung, Matthew R. Kelleher, Ryan J. Schlueter, Binhan Xu, Yung-Hsiang Lu, |gkt|,
   Yen-Kuang Chen, and Yang Lu,
   *Large-Scale Object Detection of Images from Network Cameras in Variable Ambient Lighting Conditions*,
@@ -148,17 +166,26 @@ Conference Papers
 
 *2018*
 
+.. index::
+   network cameras, CPUs, GPGPUs, cloud
+
 * Ahmed S. Kaseb, Bo Fu, Anup Mohan, Yung-Hsiang Lu, Amy Reibman, |gkt|,
   *Analyzing Real-Time Multimedia Content From Network Cameras: Using CPUs and GPUs in the Cloud*,
   Proceedings of IEEE Multimedia Information Processing and Retrieval,
   2018,
   https://ecommons.luc.edu/cs_facpubs/190/
 
+.. index::
+   disaster response, social data analysis, visual analytics
+
 * Chittayong Surakitbanharn, Calvin Yau, Guizhen Wang, Aniesh Chawla, Yinuo Pan, Zhaoya Sun, Sam Yellin, David Ebert, Yung-Hsiang Lu, and |gkt|,
   *Cross-referencing social media and public surveillance camera data for disaster response*,
   In Proceedings of 2018 IEEE International Symposium on Technologies for Homeland Security,
   2018,
   https://ecommons.luc.edu/cs_facpubs/203/
+
+.. index::
+   empirical software engineering, survey, software metrics
 
 * Nasir U. Eisty, |gkt|,  and Jeffrey C. Carver,
   *A Survey of Software Metric Use in Research Software Development*,
