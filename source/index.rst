@@ -6,16 +6,12 @@
 George K. Thiruvathukal
 ========================
 
-`Professor of Computer Science, Loyola University Chicago <https://luc.edu/gkthiruvathukal>`_
+Welcome to the home page of George K. Thiruvathukal, `Professor of Computer Science at Loyola University Chicago <https://luc.edu/gkthiruvathukal>`_
+and `Visiting Faculty at Argonne National Laboratory (ALCF) <https://www.alcf.anl.gov/staff-directory/george-k-thiruvathukal>`_. I also collaborate 
+with and lead software engineering for the CAM\ :superscript:`2` Project (`cam2project.net <https://cam2project.net>`_) at Purdue University.
 
-`Visiting Faculty, Argonne National Laboratory (ALCF) <https://www.alcf.anl.gov/staff-directory/george-k-thiruvathukal>`_
-
-Welcome to the home page of George K. Thiruvathukal.
-
-.. warning::
-
-   A bit under constrution again. After giving Jekyll a try, I've decided ot use Sphinx, which is more conducive to my
-   workflow/lifeflow in general. Pardon my dust as I work to get everything (especially publications) reorganized.
+For more information about me and my work, please see the :doc:`about` page.
+See the :ref:`genindex` for a more topical view of this site.
 
 .. toctree::
    :hidden:
@@ -27,4 +23,3 @@ Welcome to the home page of George K. Thiruvathukal.
    community.rst
    media.rst
 
-See :ref:`genindex` for a more topical way of navigating the site.
