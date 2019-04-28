@@ -105,7 +105,7 @@ Conference Papers
   2019,
   https://ecommons.luc.edu/cs_facpubs/214/
 
-* Ronald I. Greenberg, George K. Thiruvathukal, and Sara T. Greenberg,
+* Ronald I. Greenberg, |gkt|, and Sara T. Greenberg,
   *Integrating mathematics and educational robotics: Simple motion planning*,
   Proceedings of the 10th International Conference on Robotics in Education,
   Advances in Intelligent Systems and Computing. Springer-Verlag,
@@ -113,7 +113,7 @@ Conference Papers
   https://ecommons.luc.edu/cs_facpubs/213/
 
 * Zohar Kapach, Andrew Ulmer, Daniel Merrick, Arshad Alikhan, Yung-Hsiang Lu, Anup Mohan,
-  Ahmed S. Kaseb, and George K. Thiruvathukal,
+  Ahmed S. Kaseb, and |gkt|,
   *Cloud Resource Optimization for Processing Multiple Streams of Visual Data*,
   IEEE Multimedia 2019 *(to appear)*
   2019,
@@ -148,27 +148,27 @@ Conference Papers
 .. 2012
 .. 2011
 
-* Joseph P. Kaylor, Konstantin Läufer, and George K. Thiruvathukal,
+* Joseph P. Kaylor, Konstantin Läufer, and |gkt|,
   *RestFS: Resources and Services are Filesystems, Too*,
   Proceedings of Second International Workshop on RESTful Design
   Hyderabad, India,
   http://dx.doi.org/10.1145/1967428.1967439,
   https://ecommons.luc.edu/cs_facpubs/15/
 
-* Steven E. Jones and George K. Thiruvathukal,
+* Steven E. Jones and |gkt|,
   *The Object of Platform Studies: Relational Materialities and the Social Platform (the case of the Nintendo Wii)*,
   Digital Humanities 2011 Book of Abstracts,
   2011,
   https://ecommons.luc.edu/cs_facpubs/28/
 
-* Joseph P. Kaylor, Konstantin Läufer, George K. Thiruvathukal
+* Joseph P. Kaylor, Konstantin Läufer, |gkt|
   *REST on Routers? "Preliminary Lessons for Language Designers, Framework Architects, and App Developers*,
   6th International Conference on Software and Data Technologies (ICSOFT),
   July 2011,
   https://ecommons.luc.edu/cs_facpubs/35/
 
 
-* David Dennis, Konstantin Läufer, and George K. Thiruvathukal,
+* David Dennis, Konstantin Läufer, and |gkt|,
   *Initial experience in moving key academic department functions to social networking sites*, 
   6th International Conference on Software and Data Technologies (ICSOFT)
   July 2011,
@@ -259,9 +259,32 @@ Journal Articles
    double: magazine article; computer vision
    double: magazine article; network cameras
 
-* Yung-Hsiang Lu, George K. Thiruvathukal, Ahmed S. Kaseb; Kent Gauen, Damini Rijhwani, Ryan Dailey,
+* Yung-Hsiang Lu, |gkt|, Ahmed S. Kaseb; Kent Gauen, Damini Rijhwani, Ryan Dailey,
   Deeptanshu Malik, Yutong Huang, Sarah Aghajanzadeh, and Minghao Guo,
   *See the World through Network Cameras*,
   IEEE Computer Magazine *(to appear)*,
   2019,
   https://ecommons.luc.edu/cs_facpubs/215/
+
+
+Datasets
+~~~~~~~~~~~
+
+* Dario Dematties, |gkt|, Silvio Rizzi, Alejandro Javier Wainselboim and Bonifacio Silvano Zanutto,
+  *Datasets used to train and test the Cortical Spectro-Temporal Model (CSTM) (Version v1.0)*
+  Zenodo,
+  2019,
+  http://doi.org/10.5281/zenodo.2576130
+
+* Dario Dematties, |gkt|, Silvio Rizzi, Alejandro Javier Wainselboim and Bonifacio Silvano Zanutto,
+  *neurophon/neurophon: Release for PLOS submission (Version v1.0)*,
+  Zenodo,
+  2019,
+  http://doi.org/10.5281/zenodo.2580396
+
+* Dario Dematties, |gkt|, Silvio Rizzi, Alejandro Javier Wainselboim and Bonifacio Silvano Zanutto,
+  *Experimental Results and Appendices: Cortical Spectro-Temporal Model (CSTM) [Data set]*,
+  Zenodo,
+  2019,
+  http://doi.org/10.5281/zenodo.2581550
+
