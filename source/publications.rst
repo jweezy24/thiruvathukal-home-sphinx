@@ -202,6 +202,18 @@ Conference Papers
   In Proceedings of International Workshop on Semantic Big Data 2017 (SBD 2017) at ACM SIGMOD 2017,
   https://ecommons.luc.edu/cs_facpubs/139/
 
+* David B. Dennis and |gkt|,
+  Computer Science and Cultural History: A Dialogue,
+  CESTEMER Conference: Cultivating Ensembles in STEM Education and Research,
+  2017,
+  https://ecommons.luc.edu/history_facpubs/42/
+
+* Kent Gauen, Ryan Dailey, John Laiman, Yuxiang Zi, Nirmal Asokan, Yung-Hsiang Lu, George K. Thiruvathukal, Mei-Ling Shyu,
+  and Shu-Ching Chen,
+  *Comparison of Visual Datasets for Machine Learning*,
+  IEEE Conference on Information Reuse and Integration 2017,
+  https://ecommons.luc.edu/cs_facpubs/148/
+
 
 .. 2016-2011
 
@@ -339,6 +351,9 @@ Magazine Articles
   2019,
   https://ecommons.luc.edu/cs_facpubs/215/
 
+.. index::
+   Computing in Science and Engineering, 20th anniversary
+ 
 * Francis Sullivan, Norman Chonacky, Isabel Beichl and |gkt|,
   *Former CiSE EICs Reflect on the Magazines 20th Anniversary*,
   Computing in Science and Engineering,
@@ -347,6 +362,27 @@ Magazine Articles
   doi: 10.1109/MCSE.2018.011111118,
   https://ecommons.luc.edu/cs_facpubs/191/
 
+.. index::
+   reproducible research
+
+* Lorena A. Barba and |gkt|,
+  *Reproducible Research for Computing in Science & Engineering*,
+  Computing in Science & Engineering,
+  vol. 19, no. 6, pp. 85-87,
+  November/December 2017,
+  doi:10.1109/MCSE.2017.3971172,
+  https://ecommons.luc.edu/cs_facpubs/188/
+
+.. index::
+   graph databases, NoSQL
+
+* George F. Hurlburt, |gkt| and Maria R. Lee,
+  *The Graph Database: Jack of All Trades or Just Not SQL?*,
+  IEEE IT Professional,
+  vol. 19, no. 6, pp. 21-25,
+  November/December 2017,
+  doi: 10.1109/MITP.2017.4241475,
+  https://ecommons.luc.edu/cs_facpubs/187/
 
 
 
@@ -374,6 +410,13 @@ ArXiv/Technical Reports
   *Understanding Turning Radius and Driving in Convex Polygon Paths in Introductory Robotics*,
   http://dx.doi.org/10.6084/m9.figshare.7027838,
   https://ecommons.luc.edu/cs_facpubs/202/
+
+* |gkt|, Shilpika, Nicholas J. Hayward, Konstantin Läufer,
+  *Metrics Dashboard: A Hosted Platform for Software Quality Metrics*,
+  arXiv:1804.02053 [cs.SE]
+  https://ecommons.luc.edu/cs_facpubs/192/
+
+
 
  
 Datasets
