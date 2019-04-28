@@ -25,8 +25,10 @@ Books
 
 .. index::
    double: books; digital humanities
+   double: books; Nintendo Wii
    double: books; gaming
    double: books; history
+   double: books; platform studies
 
 * Steven E. Jones and |gkt|,
   Codename Revolution: The Nintendo Wii Platform,
@@ -70,9 +72,27 @@ e-Books
   https://ecommons.luc.edu/cs_facpubs/74
 
 .. index::
+   double: ebooks; teaching
+   double: ebooks; distributed systems
+   distributed systems (course), COMP 339, COMP 439
+
+* |gkt| and Sarah Kaylor, `Distributed Systems <https://ds.cs.luc.edu>`_,
+
+.. index::
+   double: ebooks; manuals
+   double: ebooks; systems
+   systems handbook
+
+* |gkt| and Miao Ye, `Systems Handbook, Loyola University Chicago Computer Science <https://systemshandbook.cs.luc.edu>`_
+
+.. index::
+   academic programs, Loyola University Chicago
+
+* |gkt|, Editor, `Academic Programs, Loyola University Chicago Computer Science <https://academics.cs.luc.edu>`_
+
+.. index::
    double: books; digital humanities
    double: books; computer history
-
 
 * |gkt|, *A Mini-History of Computing*, American Institute of Physics, College Park, MD, 2011,
   https://ecommons.luc.edu/cs_facpubs/103/
@@ -262,6 +282,12 @@ Conference Papers
 
 Journal Articles
 ~~~~~~~~~~~~~~~~~~~~
+
+.. index::
+   double: journal paper; machine learning
+   double: journal paper; fossils
+   double: journal paper; classification
+
 
 * Gregory J. Matthews, Juliet K. Brophy, Max P. Luetkemeier, Hongie Gu, and |gkt|,
   *A comparison of machine learning techniques for taxonomic classification of teeth from the Family Bovidae*,
