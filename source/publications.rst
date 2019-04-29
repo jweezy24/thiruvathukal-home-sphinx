@@ -372,6 +372,14 @@ Journal Articles
   https://arxiv.org/abs/1802.05778
 
 .. index::
+   teaching, concurrent software
+
+* Konstantin Läufer and George K. Thiruvathukal,
+  *Teaching Concurrent Software Design: A Case Study Using Android*,
+  2017,
+  https://arxiv.org/pdf/1705.02899.pdf
+
+.. index::
    bioinformatics, HIV-1, phylogeny, software engineering
 
 * Steven Reisman, Thomas Hatzopoulos, Konstantin Läufer, |George-K-Thiruvathukal|, Catherine Putonti,
