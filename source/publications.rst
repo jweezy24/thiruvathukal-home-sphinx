@@ -127,7 +127,7 @@ Conference Papers
 
 .. index::
    cloud, computer vision, streaming
- 
+
 * Zohar Kapach, Andrew Ulmer, Daniel Merrick, Arshad Alikhan, Yung-Hsiang Lu, Anup Mohan,
   Ahmed S. Kaseb, and |George-K-Thiruvathukal|,
   *Cloud Resource Optimization for Processing Multiple Streams of Visual Data*,
@@ -137,7 +137,7 @@ Conference Papers
 
 .. index::
    object detection, network cameras, ambient lighting
- 
+
 * Caleb Tung, Matthew R. Kelleher, Ryan J. Schlueter, Binhan Xu, Yung-Hsiang Lu, |George-K-Thiruvathukal|,
   Yen-Kuang Chen, and Yang Lu,
   *Large-Scale Object Detection of Images from Network Cameras in Variable Ambient Lighting Conditions*,
@@ -228,7 +228,7 @@ Conference Papers
 
 
 * David Dennis, Konstantin Läufer, and |George-K-Thiruvathukal|,
-  *Initial experience in moving key academic department functions to social networking sites*, 
+  *Initial experience in moving key academic department functions to social networking sites*,
   6th International Conference on Software and Data Technologies (ICSOFT)
   July 2011,
   https://ecommons.luc.edu/cs_facpubs/36/
@@ -367,7 +367,7 @@ Magazine Articles
 
 .. index::
    Computing in Science and Engineering, 20th anniversary
- 
+
 * Francis Sullivan, Norman Chonacky, Isabel Beichl and |George-K-Thiruvathukal|,
   *Former CiSE EICs Reflect on the Magazines 20th Anniversary*,
   Computing in Science and Engineering,
@@ -423,7 +423,7 @@ Magazine Articles
 
 * |George-K-Thiruvathukal|,
   *How AI is bringing Hollywood to life*,
-  VentureBeat, December 9, 2016, 
+  VentureBeat, December 9, 2016,
   http://venturebeat.com/2016/12/09/how-ai-is-bringing-hollywood-to-life/
 
 * See `works.bepress.com/gkthiruvathukal <https://works.bepress.com/gkthiruvathukal/>`_.
@@ -460,9 +460,14 @@ ArXiv/Technical Reports
 
 * See `works.bepress.com/gkthiruvathukal <https://works.bepress.com/gkthiruvathukal/>`_.
 
- 
+
 Datasets
 ~~~~~~~~~~~
+
+* Dario Dematties, |George-K-Thiruvathukal|, Silvio Rizzi, Alejandro Javier Wainselboim and Bonifacio Silvano Zanutto,
+  *Neurocomputational cortical memory for spectro-temporal phonetic abstraction.*
+  Zenodo, 2019,
+  https://zenodo.org/record/2584864#.XMcJXN-YVuQ
 
 * Dario Dematties, |George-K-Thiruvathukal|, Silvio Rizzi, Alejandro Javier Wainselboim and Bonifacio Silvano Zanutto,
   *Datasets used to train and test the Cortical Spectro-Temporal Model (CSTM) (Version v1.0)*
