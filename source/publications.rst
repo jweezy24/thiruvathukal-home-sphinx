@@ -122,7 +122,6 @@ Conference Papers
   Daniel Katz, Christopher Madan, Kevin Moerman, Kyle Niemeyer, Jack L. Poulson, Pjotr Prins, Karthik Ram, Ariel Rokem,
   Arfon M. Smith, |gkt|, Kristen Thyng, Leonardo Uieda, Bruce Wilson, and Yo Yehudi,
   *Giving software its due through community-driven review and publication*,
-  https://doi.org/10.31219/osf.io/f4vx6,
   https://ecommons.luc.edu/cs_facpubs/216/
 
 .. index::
@@ -220,7 +219,6 @@ Conference Papers
   *RestFS: Resources and Services are Filesystems, Too*,
   Proceedings of Second International Workshop on RESTful Design
   Hyderabad, India,
-  http://dx.doi.org/10.1145/1967428.1967439,
   https://ecommons.luc.edu/cs_facpubs/15/
 
 * Steven E. Jones and |gkt|,
@@ -331,7 +329,6 @@ Journal Articles
   *A comparison of machine learning techniques for taxonomic classification of teeth from the Family Bovidae*,
   Journal of Applied Statistics,
   2018,
-  https://doi.org/10.1080/02664763.2018.1441381,
   https://arxiv.org/abs/1802.05778
 
 
