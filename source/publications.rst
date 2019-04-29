@@ -97,10 +97,12 @@ e-Books
 * |gkt|, *A Mini-History of Computing*, American Institute of Physics, College Park, MD, 2011,
   https://ecommons.luc.edu/cs_facpubs/103/
 
-Conference Papers
-~~~~~~~~~~~~~~~~~~
+Recent Conference Papers
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*2019*
+====
+2019
+====
 
 .. index::
    low-power, computer vision
@@ -163,7 +165,9 @@ Conference Papers
   2019,
   https://ecommons.luc.edu/cs_facpubs/207/
 
-*2018*
+====
+2018
+====
 
 .. index::
    network cameras, CPUs, GPGPUs, cloud
@@ -193,7 +197,9 @@ Conference Papers
   pp. 212-222,
   https://ecommons.luc.edu/cs_facpubs/206/
 
-*2017*
+====
+2017
+====
 
 * Michael J. Lewis, |gkt|, Venkatram Vishwanath, Michael E. Papka, and Andrew Johnson,
   *A Distributed Graph Approach for Pre-Processing Linked Data Using Supercomputers*,
@@ -213,13 +219,45 @@ Conference Papers
   https://ecommons.luc.edu/cs_facpubs/148/
 
 
-.. 2016-2011
+====
+2016
+====
 
 * Joseph P. Kaylor, Konstantin Läufer, and |gkt|,
   *RestFS: Resources and Services are Filesystems, Too*,
   Proceedings of Second International Workshop on RESTful Design
   Hyderabad, India,
   https://ecommons.luc.edu/cs_facpubs/15/
+
+* Updates in progress. See https://works.bepress.com/gkthiruvathukal/.
+
+====
+2015
+====
+
+* Updates in progress. See https://works.bepress.com/gkthiruvathukal/.
+
+====
+2014
+====
+
+* Updates in progress. See https://works.bepress.com/gkthiruvathukal/.
+
+====
+2013
+====
+
+* Updates in progress. See https://works.bepress.com/gkthiruvathukal/.
+
+====
+2012
+====
+
+* Updates in progress. See https://works.bepress.com/gkthiruvathukal/.
+
+====
+2011
+====
 
 * Steven E. Jones and |gkt|,
   *The Object of Platform Studies: Relational Materialities and the Social Platform (the case of the Nintendo Wii)*,
@@ -240,7 +278,9 @@ Conference Papers
   July 2011,
   https://ecommons.luc.edu/cs_facpubs/36/
 
-.. 2010
+====
+2010
+====
 
 * Jones, Steven E., Peter Shillingsburg, and |gkt|,
   *E-Carrel: An Environment for Collaborative Textual Scholarship*,
@@ -248,10 +288,27 @@ Conference Papers
   June 16, 2010,
   https://ecommons.luc.edu/cs_facpubs/1/
 
-.. 2009
-.. 2008
+====
+2009
+====
 
-.. 2006
+* Updates in progress. See https://works.bepress.com/gkthiruvathukal/.
+
+====
+2008
+====
+
+* Updates in progress. See https://works.bepress.com/gkthiruvathukal/.
+
+====
+2007
+====
+
+* Updates in progress. See https://works.bepress.com/gkthiruvathukal/.
+
+====
+2006
+====
 
 .. index::
    double: conference paper; Hydra Filesystem
@@ -299,8 +356,11 @@ Conference Papers
   2003,
   https://ecommons.luc.edu/cs_facpubs/12/
 
+===========
+Before 2005
+===========
 
-.. 1998
+* Updates in progress. See https://works.bepress.com/gkthiruvathukal/.
 
 .. index::
    Java
@@ -331,6 +391,10 @@ Journal Articles
   2018,
   https://arxiv.org/abs/1802.05778
 
+* Steven Reisman, Thomas Hatzopoulos, Konstantin Läufer, |gkt|, Catherine Putonti,
+  *A Polyglot Approach to Bioinformatics Data Integration: A Phylogenetic Analysis of HIV-1*,
+  Evolutionary Bioinformatics 2016:12 23-27,
+  https://ecommons.luc.edu/cs_facpubs/127/
 
 Magazine Articles
 ~~~~~~~~~~~~~~~~~
@@ -378,7 +442,35 @@ Magazine Articles
   https://ecommons.luc.edu/cs_facpubs/187/
 
 
+* Tiffany Barnes, Jamie Payton, |gkt|, Kristy E. Boyer and Jeffrey Forbes,
+  *Guest Editors' Introduction: Research on Equity and Sustained Participation in Engineering, Computing, and Technology*,
+  Computing in Science & Engineering, vol. 18, no. 2, pp. 6-8, Mar.-Apr. 2016,
+  https://ecommons.luc.edu/cs_facpubs/122/
 
+* Tiffany Barnes, Jamie Payton, |gkt|, Kristy E. Boyer and Jeffrey Forbes,
+  *Best of RESPECT, Part 2*,
+  Computing in Science & Engineering, vol. 18, no. 3, pp. 11-13, May-June 2016,
+  https://ecommons.luc.edu/cs_facpubs/125/
+
+* Tiffany Barnes and |gkt|,
+  The Need for Research in Broadening Participation,
+  Communications of the ACM, Vol. 59 No. 3, Pages 33-34,
+  https://ecommons.luc.edu/cs_facpubs/129/
+
+* George K. Thiruvathukal,
+  *Beyond Pythagoras*,
+  EdTech Digest, December 16, 2016,
+  https://edtechdigest.wordpress.com/2016/12/16/beyond-pythagoras/
+
+* George K. Thiruvathukal,
+  *El Fin*,
+  Computing in Science & Engineering, vol. 18, no. 6, pp. 4-6, Nov.-Dec. 2016.,
+  https://ecommons.luc.edu/cs_facpubs/123/
+
+* George K. Thiruvathukal,
+  *How AI is bringing Hollywood to life*,
+  VentureBeat, December 9, 2016, 
+  http://venturebeat.com/2016/12/09/how-ai-is-bringing-hollywood-to-life/
 
 Posters
 ~~~~~~~~~~
