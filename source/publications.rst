@@ -459,6 +459,12 @@ Magazine Articles
   Communications of the ACM, Vol. 59 No. 3, Pages 33-34,
   https://ecommons.luc.edu/cs_facpubs/129/
 
+* Tiffany Barnes, Jamie Payton, |George-K-Thiruvathukal|, Jeff Forbes and Kristy Elizabeth Boyer,
+  *Best of RESPECT, Part 2*,
+  Computing in Science & Engineering, vol. 18, no. 3, pp. 11-13,
+  May-June 2016,
+  https://ecommons.luc.edu/cs_facpubs/125/
+
 * |George-K-Thiruvathukal|,
   *Beyond Pythagoras*,
   EdTech Digest, December 16, 2016,
@@ -503,7 +509,7 @@ ArXiv/Technical Reports
   https://arxiv.org/abs/1804.02053
 
 * |George-K-Thiruvathukal|, Cameron Christensen, Xiaoyong Jin, François Tessier, and Venkatram Vishwanath,
-  A Benchmarking Study to Evaluate Apache Spark on Large-Scale Supercomputers,
+  *A Benchmarking Study to Evaluate Apache Spark on Large-Scale Supercomputers*,
   https://arxiv.org/abs/1904.11812
 
 * See `works.bepress.com/gkthiruvathukal <https://works.bepress.com/gkthiruvathukal/>`_.
