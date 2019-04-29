@@ -192,7 +192,6 @@ Conference Papers
   IEEE 14th International Conference on e-Science (e-Science),
   2018,
   pp. 212-222,
-  doi: 10.1109/eScience.2018.00036,
   https://ecommons.luc.edu/cs_facpubs/206/
 
 *2017*
@@ -359,7 +358,6 @@ Magazine Articles
   Computing in Science and Engineering,
   vol. 20, no. 1, pp. 3-7,
   January/February 2018,
-  doi: 10.1109/MCSE.2018.011111118,
   https://ecommons.luc.edu/cs_facpubs/191/
 
 .. index::
@@ -370,7 +368,6 @@ Magazine Articles
   Computing in Science & Engineering,
   vol. 19, no. 6, pp. 85-87,
   November/December 2017,
-  doi:10.1109/MCSE.2017.3971172,
   https://ecommons.luc.edu/cs_facpubs/188/
 
 .. index::
@@ -381,7 +378,6 @@ Magazine Articles
   IEEE IT Professional,
   vol. 19, no. 6, pp. 21-25,
   November/December 2017,
-  doi: 10.1109/MITP.2017.4241475,
   https://ecommons.luc.edu/cs_facpubs/187/
 
 
@@ -403,18 +399,19 @@ ArXiv/Technical Reports
 
 * Konstantin Läufer, John O'Sullivan, and |gkt|,
   *Auto-generated Spies Increase Test Maintainability*,
-  arXiv:1808.09630,
-  https://ecommons.luc.edu/cs_facpubs/198/
+  https://arxiv.org/abs/1808.09630
 
 * |gkt|, Ronald I. Greenberg, and David Garcia,
   *Understanding Turning Radius and Driving in Convex Polygon Paths in Introductory Robotics*,
-  http://dx.doi.org/10.6084/m9.figshare.7027838,
-  https://ecommons.luc.edu/cs_facpubs/202/
+  https://figshare.com/articles/Understanding_Turning_Radius_and_Driving_in_Convex_Polygon_Paths_in_Introductory_Robotics/7027838
 
 * |gkt|, Shilpika, Nicholas J. Hayward, Konstantin Läufer,
   *Metrics Dashboard: A Hosted Platform for Software Quality Metrics*,
-  arXiv:1804.02053 [cs.SE]
-  https://ecommons.luc.edu/cs_facpubs/192/
+  https://arxiv.org/abs/1804.02053
+
+* |gkt|, Cameron Christensen, Xiaoyong Jin, François Tessier, and Venkatram Vishwanath,
+  A Benchmarking Study to Evaluate Apache Spark on Large-Scale Supercomputers,
+  https://arxiv.org/abs/1904.11812
 
 
 
