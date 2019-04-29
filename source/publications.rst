@@ -381,6 +381,14 @@ Journal Articles
   https://arxiv.org/pdf/1705.02899.pdf
 
 .. index::
+   fossil, amazon turk
+
+   Gregory J. Matthews, |George-K-Thiruvathukal|, Maxwell P. Luetkemeier, Juliet K. Brophy
+   *Examining the use of Amazon’s Mechanical Turk for edge extraction of the occlusal surface of fossilized bovid teeth*,
+   2017,
+   https://doi.org/10.1371/journal.pone.0179757
+
+.. index::
    bioinformatics, HIV-1, phylogeny, software engineering
 
 * Steven Reisman, Thomas Hatzopoulos, Konstantin Läufer, |George-K-Thiruvathukal|, Catherine Putonti,
