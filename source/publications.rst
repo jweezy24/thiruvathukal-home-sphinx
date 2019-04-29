@@ -180,11 +180,21 @@ Conference Papers
 .. index::
    presentation, markdown
 
-* Ronald I. Greenberg, and George K. Thiruvathukal,
+* Ronald I. Greenberg, and |George-K-Thiruvathukal|,
   *Separating Markup from Text*,
   Chicago Colloquium on Digital Humanities and Computer Science (DHCS),2017,
   Retrieved from Loyola eCommons, Computer Science: Faculty Publications and Other Works,
   https://ecommons.luc.edu/cs_facpubs/197/
+
+.. index::
+   presentation, distributed, pre-processing, rdf
+
+* Michael J. Lewis, |George-K-Thiruvathukal|, Venkatram Vishwanath, Michael E. Papka,
+  and Andrew Johnson,
+  *A Distributed Graph Approach for Pre-Processing Linked Data Using Supercomputers*,
+  In Proceedings of International Workshop on Semantic Big Data 2017,
+  2017,
+  https://ecommons.luc.edu/cs_facpubs/139/
 
 .. index::
    distributed, pre-processing, supercomputers
@@ -374,7 +384,7 @@ Journal Articles
 .. index::
    teaching, concurrent software
 
-* Konstantin Läufer and George K. Thiruvathukal,
+* Konstantin Läufer and |George-K-Thiruvathukal|,
   *Teaching Concurrent Software Design: A Case Study Using Android*,
   2017,
   https://arxiv.org/pdf/1705.02899.pdf
