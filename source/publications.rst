@@ -222,8 +222,65 @@ Conference Papers
   Hyderabad, India,
   https://ecommons.luc.edu/cs_facpubs/15/
 
-
 .. 2015
+
+* |George-K-Thiruvathukal|, Shilpika, Nicholas Hayward, Saulo Aguiar,
+  and Konstantin Läufer,
+  *Towards Sustainable Digital Humanities Software*,
+  Chicago Colloquium on Digital Humanities and Computer Science,
+  2015,
+  https://ecommons.luc.edu/cs_facpubs/126/
+
+* Shilpika, |George-K-Thiruvathukal|, Saulo Aguiar, Konstantin Läufer, and  Nicholas J Hayward,
+  *Software Metrics and Dashboard*,
+  Retrieved from Loyola eCommons,
+  Computer Science: Faculty Publications and Other Works,
+  2015,
+  https://ecommons.luc.edu/cs_facpubs/87/
+
+* Trevor Borg and |George-K-Thiruvathukal|,
+  *Single Page Apps for Humanists: A Case Study Using the Perseus Richmond Times Corpus*,
+  Proceedings of Digital Humanities,
+  2014,
+  http://dharchive.org/paper/DH2014/Paper-888.xml
+
+* Joseph P. Kaylor, Konstantin Läufer, Chandra N. Sekharan, and |George-K-Thiruvathukal|,
+  *Spring­11: PDC in CS1/2 and a ￼￼mobile/cloud intermediate mobile/cloud intermediate ￼software design course*,
+  In Proc. 3rd NSF/IEEE-CS TCPP Workshop on Parallel and Distributed Computing Education (EduPar),
+  Boston, Massachusetts, USA, May 2013.
+  https://ecommons.luc.edu/cs_facpubs/67/
+
+* T. Delgado Dias, X. Yan, K. Läufer, and |George-K-Thiruvathukal|,
+  *Building Capable, Energy-Efficient, Flexible Visualization and Sensing Clusters from Commodity Tablets: Position Statement and Preliminary Progress Report*,
+  2nd Greater Chicago Area System Research Workshop (GCASR),
+  May 3, 2013, Evanston, IL, USA.
+  https://ecommons.luc.edu/cs_facpubs/66/
+
+* P. Stasiuk, K. Läufer, and |George-K-Thiruvathukal|,
+  *Network Technologies used to Aggregate Environmental Data: Research Poster*,
+  2nd Greater Chicago Area System Research Workshop (GCASR),
+  May 3, 2013, Evanston, IL, USA.
+  https://ecommons.luc.edu/cs_facpubs/65/
+
+* Jon Ross and |George-K-Thiruvathukal|,
+  *Gendered Jobs and the New Gender Gap*,
+  American Mens Studies Association XXI,
+  Ann Arbor, MI, 2013,
+  https://ecommons.luc.edu/cs_facpubs/73/
+
+* M. Lewis, K. Läufer, and |George-K-Thiruvathukal|,
+  *Using Scala Strategically Across the Undergraduate Curriculum (abstract only)*,
+  In Proceedings of the 44th ACM Technical Symposium on Computer Science Education, p. 763,
+  2013,
+  https://ecommons.luc.edu/cs_facpubs/69/
+
+* |George-K-Thiruvathukal|, Joseph P. Kaylor, and Konstantin Läufer,
+  *Filesystems: Addressing the Last-mile “Problem” in Services-Oriented/Cloud Computing*,
+  Scientific Software Days 2012,
+  University of Texas at Austin,
+  https://ecommons.luc.edu/cs_facpubs/71/
+
+
 
 .. 2014
 
@@ -396,6 +453,71 @@ Journal Articles
   Evolutionary Bioinformatics 2016:12 23-27,
   https://ecommons.luc.edu/cs_facpubs/127/
 
+* |George-K-Thiruvathukal|,
+  *Cloudy with a Chance of Sunshine, or the Future of Magazine Publishing*,
+  Computing in Science & Engineering, vol. 17, no. 6, pp. 4-5,
+  Nov.-Dec. 2015,
+  https://ecommons.luc.edu/cs_facpubs/124/
+
+* Manish Parashar and |George-K-Thiruvathukal|,
+  *Extreme Data [Guest editors' introduction]*,
+  Computing in Science & Engineering, vol. 16, no. 4, pp. 8-10,
+  July-Aug. 2014,
+  https://ecommons.luc.edu/cs_facpubs/133/
+
+* |George-K-Thiruvathukal|,
+  *What We Publish in CiSE*,
+  Computing in Science & Engineering, vol. 16, no. 2, pp. 4-6,
+  Mar.-Apr. 2014,
+  https://ecommons.luc.edu/cs_facpubs/132/
+
+*  Pamela L. Caughie, Nicholas J. Hayward, Mark. Hussey,
+   Peter L. Shillingsburg, and |George-K-Thiruvathukal|,
+   eds, *Woolf Online*,
+   Web. http://www.woolfonline.com,
+   2013
+
+* |George-K-Thiruvathukal|,
+  *What's in an Algorithm?*,
+  Computing in Science & Engineering, vol. 15, no. 4, pp. 4-5,
+  July-Aug. 2013,
+  https://ecommons.luc.edu/cs_facpubs/130/
+
+* Jeffrey C. Carver and |George-K-Thiruvathukal|,
+  *Software Engineering Need not be Difficult*,
+  Workshop on Sustainable Software for Science: Practice and Experiences, SuperComputing Conference 2013,
+  Available on figshare, http://dx.doi.org/10.6084/m9.figshare.830442
+
+* |George-K-Thiruvathukal| and Manish Parashar,
+  *Cloud Computing [Guest editorial]*,
+  Computing in Science & Engineering, vol. 15, no. 4, pp. 8-9,
+  July-Aug. 2013,
+  https://ecommons.luc.edu/cs_facpubs/131/
+
+* |George-K-Thiruvathukal|,
+  *Productivity in the Cognitive Overload Era*,
+  Computing in Science & Engineering, vol. 15, no. 3, pp. 4-5,
+  May-June 2013,
+  https://ecommons.luc.edu/cs_facpubs/136/
+
+* |George-K-Thiruvathukal|,
+  *Computational Science, Demystified...the Future, Revealed...and CiSE, 2013*,
+  in Computing in Science & Engineering, vol. 15, no. 2, pp. 4-5,
+  March-April 2013,
+  https://ecommons.luc.edu/cs_facpubs/135/
+
+* |George-K-Thiruvathukal|,
+  *Who Needs Tablets? We Do*,
+  Computing in Science & Engineering, vol. 15, no. 1, pp. 4-6,
+  Jan.-Feb. 2013,
+  https://ecommons.luc.edu/cs_facpubs/134/
+
+* Dejan S. Milojicic, Martin Arlitt, Dorée Duncan Seligmann,
+  |George-K-Thiruvathukal|, Christian Timmerer,
+  *Innovation Mashups: Academic Rigor Meets Social Networking Buzz*,
+  Computer, vol. 45, no. 9, pp. 101-105, Sept. 2012,
+  https://ecommons.luc.edu/cs_facpubs/72/
+
 * See `works.bepress.com/gkthiruvathukal <https://works.bepress.com/gkthiruvathukal/>`_.
 
 Magazine Articles
@@ -459,11 +581,6 @@ Magazine Articles
   Communications of the ACM, Vol. 59 No. 3, Pages 33-34,
   https://ecommons.luc.edu/cs_facpubs/129/
 
-* Tiffany Barnes, Jamie Payton, |George-K-Thiruvathukal|, Jeff Forbes and Kristy Elizabeth Boyer,
-  *Best of RESPECT, Part 2*,
-  Computing in Science & Engineering, vol. 18, no. 3, pp. 11-13,
-  May-June 2016,
-  https://ecommons.luc.edu/cs_facpubs/125/
 
 * |George-K-Thiruvathukal|,
   *Beyond Pythagoras*,
@@ -511,6 +628,12 @@ ArXiv/Technical Reports
 * |George-K-Thiruvathukal|, Cameron Christensen, Xiaoyong Jin, François Tessier, and Venkatram Vishwanath,
   *A Benchmarking Study to Evaluate Apache Spark on Large-Scale Supercomputers*,
   https://arxiv.org/abs/1904.11812
+
+* |George-K-Thiruvathukal|,
+  *The Education Issue*,
+  Guest Editor Introduction, Computing Now, IEEE Computer Society,
+  http://www.computer.org/portal/web/computingnow/archive/february2013.
+
 
 * See `works.bepress.com/gkthiruvathukal <https://works.bepress.com/gkthiruvathukal/>`_.
 
