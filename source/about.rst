@@ -1,5 +1,5 @@
-Bio-sketch
-==========
+About Me
+=========
 
 Hi! I’m George K. Thiruvathukal. I’m professor of computer science at
 Loyola University Chicago and visiting faculty at Argonne National

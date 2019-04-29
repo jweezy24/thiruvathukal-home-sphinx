@@ -1,5 +1,5 @@
-Current Research and Collaborations
------------------------------------
+Research/Collaborations
+--------------------------
 
 I derive significant energy from research collaborations, both within
 and outside of my discipline, including both the humanities, sciences,
