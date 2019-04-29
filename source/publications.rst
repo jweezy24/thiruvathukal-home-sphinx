@@ -332,6 +332,19 @@ Journal Articles
   https://ecommons.luc.edu/cs_facpubs/217/
 
 .. index::
+   low-power, image, recgonition
+
+* Sergei Alyamkin, Matthew Ardi, Achille Brighton, Alexander C. Berg, Yiran Chen, Hsin-Pai Cheng, Bo Chen, Zichen Fan,
+  Chen Feng, Bo Fu, Kent Gauen, Jongkook Go, Alexander Goncharenko, Xuyang Guo, Hong Hanh Nguyen, Andrew Howard, Yuanjun Huang,
+  Donghyun Kang, Jaeyoun Kim, Alexander Kondratyev, Seungjae Lee, Suwoong Lee, Junhyeok Lee, Zhiyu Liang, Xin Liu, Juzheng Liu,
+  Zichao Li, Yang Lu, Yung-Hsiang Lu, Deeptanshu Malik, Eunbyung Park, Denis Repin, Tao Sheng, Liang Shen, Fei Sun, David Svitov,
+  |George-K-Thiruvathukal|, Baiwu Zhang, Jingchi Zhang, Xiaopeng Zhang, and Shaojie Zhuo,
+  *2018 Low-Power Image Recognition Challenge*,
+  2018,
+  https://arxiv.org/abs/1810.01732
+  https://ecommons.luc.edu/cs_facpubs/204/
+
+.. index::
    machine learning, fossils, shape analysis
 
 * Gregory J. Matthews, Juliet K. Brophy, Max P. Luetkemeier, Hongie Gu, and |George-K-Thiruvathukal|,
@@ -467,7 +480,7 @@ Datasets
 * Dario Dematties, |George-K-Thiruvathukal|, Silvio Rizzi, Alejandro Javier Wainselboim and Bonifacio Silvano Zanutto,
   *Neurocomputational cortical memory for spectro-temporal phonetic abstraction.*
   Zenodo, 2019,
-  https://zenodo.org/record/2584864#.XMcJXN-YVuQ
+  https://zenodo.org/record/2584864
 
 * Dario Dematties, |George-K-Thiruvathukal|, Silvio Rizzi, Alejandro Javier Wainselboim and Bonifacio Silvano Zanutto,
   *Datasets used to train and test the Cortical Spectro-Temporal Model (CSTM) (Version v1.0)*
