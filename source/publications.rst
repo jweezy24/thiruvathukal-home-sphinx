@@ -98,19 +98,6 @@ Conference Papers
 ~~~~~~~~~~~~~~~~~~
 
 .. index::
-   low-power, computer vision
-
-* Sergei Alyamkin, Matthew Ardi, Alexander C. Berg, Achille Brighton, Bo Chen, Yiran Chen, Hsin-Pai Cheng, Zichen Fan,
-  Chen Feng, Bo Fu, Kent Gauen, Abhinav Goel, Alexander Goncharenko, Xuyang Guo, Soonhoi Ha, Andrew Howard, Xiao Hu,
-  Yuanjun Huang, Donghyun Kang, Jaeyoun Kim, Jong Gook Ko, Alexander Kondratyev, Junhyeok Lee, Seungjae Lee, Suwoong Lee,
-  Zichao Li, Zhiyu Liang, Juzheng Liu, Xin Liu, Yang Lu, Yung-Hsiang Lu, Deeptanshu Malik, Hong Hanh Nguyen, Eunbyung Park,
-  Denis Repin, Liang Shen, Tao Sheng, Fei Sun, David Svitov, |George-K-Thiruvathukal|, Baiwu Zhang, Jingchi Zhang,
-  Xiaopeng Zhang, and Shaojie Zhuo, Low-Power Computer Vision: Status, Challenges, Opportunities,
-  IEEE Journal on Emerging and Selected Topics in Circuits and Systems,
-  https://arxiv.org/abs/1904.07714,
-  https://ecommons.luc.edu/cs_facpubs/217/
-
-.. index::
    software citation, JOSS
 
 * Lorena Barba, Juanjo Bazán, Jed Brown, Roman Guimera, Melissa Gymrek, Alex Hanna, Lindsey Heagy, Kathryn D. Huff,
@@ -331,12 +318,30 @@ Journal Articles
    double: journal paper; fossils
    double: journal paper; classification
 
+.. index::
+   low-power, computer vision
+
+* Sergei Alyamkin, Matthew Ardi, Alexander C. Berg, Achille Brighton, Bo Chen, Yiran Chen, Hsin-Pai Cheng, Zichen Fan,
+  Chen Feng, Bo Fu, Kent Gauen, Abhinav Goel, Alexander Goncharenko, Xuyang Guo, Soonhoi Ha, Andrew Howard, Xiao Hu,
+  Yuanjun Huang, Donghyun Kang, Jaeyoun Kim, Jong Gook Ko, Alexander Kondratyev, Junhyeok Lee, Seungjae Lee, Suwoong Lee,
+  Zichao Li, Zhiyu Liang, Juzheng Liu, Xin Liu, Yang Lu, Yung-Hsiang Lu, Deeptanshu Malik, Hong Hanh Nguyen, Eunbyung Park,
+  Denis Repin, Liang Shen, Tao Sheng, Fei Sun, David Svitov, |George-K-Thiruvathukal|, Baiwu Zhang, Jingchi Zhang,
+  Xiaopeng Zhang, and Shaojie Zhuo, Low-Power Computer Vision: Status, Challenges, Opportunities,
+  IEEE Journal on Emerging and Selected Topics in Circuits and Systems,
+  https://arxiv.org/abs/1904.07714,
+  https://ecommons.luc.edu/cs_facpubs/217/
+
+.. index::
+   machine learning, fossils, shape analysis
 
 * Gregory J. Matthews, Juliet K. Brophy, Max P. Luetkemeier, Hongie Gu, and |George-K-Thiruvathukal|,
   *A comparison of machine learning techniques for taxonomic classification of teeth from the Family Bovidae*,
   Journal of Applied Statistics,
   2018,
   https://arxiv.org/abs/1802.05778
+
+.. index::
+   bioinformatics, HIV-1, phylogeny, software engineering
 
 * Steven Reisman, Thomas Hatzopoulos, Konstantin Läufer, |George-K-Thiruvathukal|, Catherine Putonti,
   *A Polyglot Approach to Bioinformatics Data Integration: A Phylogenetic Analysis of HIV-1*,
