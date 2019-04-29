@@ -186,15 +186,6 @@ Conference Papers
   Retrieved from Loyola eCommons, Computer Science: Faculty Publications and Other Works,
   https://ecommons.luc.edu/cs_facpubs/197/
 
-.. index::
-   presentation, distributed, pre-processing, rdf
-
-* Michael J. Lewis, |George-K-Thiruvathukal|, Venkatram Vishwanath, Michael E. Papka,
-  and Andrew Johnson,
-  *A Distributed Graph Approach for Pre-Processing Linked Data Using Supercomputers*,
-  In Proceedings of International Workshop on Semantic Big Data 2017,
-  2017,
-  https://ecommons.luc.edu/cs_facpubs/139/
 
 .. index::
    distributed, pre-processing, supercomputers
@@ -208,7 +199,7 @@ Conference Papers
    history, computer science
 
 * David B. Dennis and |George-K-Thiruvathukal|,
-  Computer Science and Cultural History: A Dialogue,
+  *Computer Science and Cultural History: A Dialogue*,
   CESTEMER Conference: Cultivating Ensembles in STEM Education and Research,
   2017,
   https://ecommons.luc.edu/history_facpubs/42/
